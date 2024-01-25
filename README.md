@@ -1,19 +1,19 @@
-# Calculator
+# Gallery
 
-> This is very simple calculator app using html,css,javascript
+> This is a simple calculator app using HTML, CSS, and javascript
 
 ## Built With
 
-* html 
-* css
-* javascript 
+* HTML 
+* CSS
+* Javascript 
 * Love
 
 ## Authors
 
 * **Sheryoo0** - *Initial work* - [Sheryoo](https://github.com/Sheryoo)
 
-See also the list of [contributors](https://github.com/clock/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/simple-calculator/contributors) who participated in this project.
 
 ## License
 
